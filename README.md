@@ -1,2 +1,2 @@
 # eproject2
-this is my first repository in Git-repository
+this is my first Git-repository
